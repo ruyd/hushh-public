@@ -16,6 +16,10 @@ Hushhh uses the microphone only while it is listening, after you start it. Your 
 
 With your permission, Hushhh reads your step count and workouts from Apple Health to show your week. It reads them only on your iPhone, does not write to Health, and does not send, share or use this data for advertising or data mining. You can turn this off in the Health app at any time.
 
+## Purchases
+
+The free trial and the unlock are handled by Apple through the App Store. We never see your payment details.
+
 ## Children
 
 Hushhh is not directed at children and collects no data from anyone.

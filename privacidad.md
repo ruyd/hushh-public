@@ -16,6 +16,10 @@ Hushhh usa el micrófono solo mientras escucha, después de que lo actives. El r
 
 Con tu permiso, Hushhh lee tus pasos y entrenos de la app Salud para mostrar tu semana. Los lee solo en tu iPhone, no escribe en Salud, y no envía, comparte ni usa estos datos para publicidad o minería de datos. Puedes desactivarlo en la app Salud en cualquier momento.
 
+## Compras
+
+Apple gestiona la prueba gratis y el desbloqueo a través de la App Store. Nunca vemos tus datos de pago.
+
 ## Menores
 
 Hushhh no está dirigida a menores y no recopila datos de nadie.
